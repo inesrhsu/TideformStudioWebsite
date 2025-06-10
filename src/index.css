@@ -15,9 +15,9 @@
   --hl-color: #00B4D8;
   --text-color: #1C1C1C;
 
-  --font-display: 8rem;   /* ~56px */
+  --font-display: clamp(3rem, 10vw, 8rem);   /* ~56px */
   --font-h1: 2.5rem;         /* ~40px */
-  --font-h2: 2rem;           /* ~32px */
+  --font-h2: clamp(1.3rem, 2vw, 2rem);           /* ~32px */
   --font-h3: 1.5rem;         /* ~24px */
   --font-body-lg: 1.25rem;   /* ~20px */
   --font-body: 1rem;         /* 16px */

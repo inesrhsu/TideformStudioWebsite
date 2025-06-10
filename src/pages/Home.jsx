@@ -8,7 +8,7 @@ const Home = () => {
       </div>
       <div className="mainsubtitle">
         Immersive Multimedia Experiences at the Intersection of 
-        <br/>Art, Technology and Storytelling
+        <br/>Art, Technology & Storytelling
       </div>
     </section>
   )

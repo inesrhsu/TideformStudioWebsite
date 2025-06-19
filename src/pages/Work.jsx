@@ -4,10 +4,10 @@ const Work = () => {
   return (
     <section className = "page">
       <div className="title">
-        Sample Work
+        Work
       </div>
       <div className="body">
-        Sample project
+        New work coming soon!
       </div>
     </section>
   )
